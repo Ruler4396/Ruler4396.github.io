@@ -1,4 +1,10 @@
 <!-- docs/_sidebar.md -->
+<!-- 
+用于添加导航栏的内容 
+格式：
+* [导航栏中显示的名称](文件名)
+-->
 
 * [首页](README.md)
 * [附录1：Markdown语法](Grammar.md)
+* [附录2：快捷键](ShortcutKey.md)
