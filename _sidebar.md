@@ -14,4 +14,4 @@
 * [附录1：Markdown语法](Grammar.md)
 * [附录2：快捷键](ShortcutKey.md)
 
-* [高等数学](/CS/Math/1.1微分与积分.md)
+* [高等数学](/CS/README.md)
