@@ -15,3 +15,4 @@
 * [附录2：快捷键](ShortcutKey.md)
 
 * [CS](/CS/README.md)
+* [别的技术](/SKILL/README.md)
