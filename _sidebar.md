@@ -13,6 +13,7 @@
 * [首页](README.md)
 * [附录1：Markdown语法](Grammar.md)
 * [附录2：快捷键](ShortcutKey.md)
+* [我的书单](BookList.md)
 
 * [CS](/CS/README.md)
 * [别的技术](/SKILL/README.md)
