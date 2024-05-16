@@ -1,6 +1,9 @@
 <!--
     - [x] 《》
 -->
+# 2024.5.15
+- [x] 《计算机器与智能》[(*Computing Machinery and Intelligence*)](https://redirect.cs.umbc.edu/courses/471/papers/turing.pdf) [英] 艾伦·图灵
+
 # 2024.5.7
 - [x] 《世上最美的溺水者》[哥伦比亚] 加西亚·马尔克斯
 
