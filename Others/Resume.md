@@ -41,13 +41,13 @@
 - 文件形式：提交电子版推荐使用PDF版本
 
 ## 样例
-![alt text](/Others/ResumePictures/image0.png)
+![alt text](/ResumePictures/image0.png)
 
-![alt text](/Others/ResumePictures/image1.png)
+![alt text](/ResumePictures/image1.png)
 
-![alt text](/Others/ResumePictures/image2.png)
+![alt text](/ResumePictures/image2.png)
 
-![alt text](/Others/ResumePictures/image3.png)
+![alt text](/ResumePictures/image3.png)
 
 ## 参考资料
 
