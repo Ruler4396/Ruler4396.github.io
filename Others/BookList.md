@@ -1,6 +1,9 @@
 <!--
     - [x] 《》
 -->
+# 2024.6.4
+- [x] 《机器学习》周志华
+
 # 2024.5.15
 - [x] 《计算机器与智能》[(*Computing Machinery and Intelligence*)](https://redirect.cs.umbc.edu/courses/471/papers/turing.pdf) [英] 艾伦·图灵
 
@@ -32,4 +35,4 @@
 - [x] 《三体》刘慈欣
 - [x] 《百年孤独》[哥伦比亚] 加西亚·马尔克斯
 - [x] [《趁生命气息逗留》](Essay/TheLastDefenderOfCamelot.md)[美] 罗杰·泽拉兹尼
-- [x] 《白夜行》东野圭吾
+- [x] 《白夜行》[日]东野圭吾
