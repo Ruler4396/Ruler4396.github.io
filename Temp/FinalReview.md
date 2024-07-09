@@ -95,6 +95,39 @@
 
 15. Party members and officials must act <font color = 00FFFF>in accordance with</font> the Regulations for Political Activities Within the Party in the New Era.
 
+## Unit 6
+
+1. I propose to give only a general survey of the subject; I shall not <font color = 00FFFF>go into details.</font>
+
+2. Water companies might have to<font color = 00FFFF> invest in</font> new reservoirs, and maybe build desalination plants to deal with droughts.
+
+3. She <font color = 00FFFF>guided</font> us <font color = 00FFFF>through</font> the busy streets to the cathedral.
+
+4. Due to your excessive delay in delivery, we have to <font color = 00FFFF>file a claim agains</font> you.
+
+5. Such talks will result in a renewed series of concessions to thiscountry <font color = 00FFFF>in exchange for</font> promises of good bchavior.
+
+6. People often get caught up in thinking there's a " <font color = 00FFFF>one size fitsall</font> " learning style for memorizing new material.
+
+7. Firms locating in London can <font color = 00FFFF>tap into</font> a huge specialist financial workforce drawn from both domestic and foreign sources.
+
+
+8. Ministers knew it made sense to crack down on junk foods but did not have the political appetite to <font color = 00FFFF>take on</font> such a huge industry.
+
+9. Once you graduate from school, you'll start to feel fierce rivaIry as you <font color = 00FFFF>compete for</font> a good job.
+
+10. The government has planted millions of trees around the city as a <font color = 00FFFF>barrier against</font> desert sandstorms.
+
+11. That is why Silver Lake is seeking to <font color = 00FFFF>bring in</font> at least one partner to help buoy a bid, one of the people bpriefed on the matter said.
+
+12. My doctor told me to <font color = 00FFFF>keep track of</font>everything I ate for two weeks, then bring the list to her so we ocould work out a diet.
+
+13.  Students over 25 <font color = 00FFFF>fall into</font> different <font color = 00FFFF>categories</font>.
+
+14.  "I should make it clear <font color = 00FFFF>from the outset</font> that this is not the normal way in which we go about cataloguing the collection," said the manager.
+
+15.  President Barack Obama's race to the top grant competition consolidated the focus on reading and math, and <font color = 00FFFF>leveraged</font> federal funds to push states to tie teacher evaluation to studenttest results.
+
 
 # 句子翻译
 
@@ -175,3 +208,29 @@
 6. 坚持党的领导，首先是坚持党中央权威和集中统一领导。
 
 - The primary requirement in adhering to Party leadership is to uphold the CPC Central Committee’s authority and centralized, unified leadership. 
+
+## Unit 6
+
+1. 从本质上讲，带头确保“两个坚持”是对党的忠诚。
+
+- To take the lead in ensuring the Two Upholds is, in essence, to be royal to the Party.
+
+2. 另一方面，购物疗法存在副作用，它也许会发展为消耗金钱、引发冲突的强迫心理，从而带来更大的生活压力。
+
+- On the other hand, the side effect of retail therapy is that it could possibly grow into a compulsion that drains finances, causes conflict, and thereby adding a significant amount of stress to a person’s life.
+
+3. 对不同意见持开放态度，更好的是，勇于接受批评并做出相应的改进是信心和力量的标志。
+
+- Being open to different opinions, better still, taking criticism with courage and making improvements accordingly are signs of confidence and strength.
+
+4. 党员和党的干部, 无论做什么工作, 级别多高, 都首先是党员。
+
+- Party members and officials, whatever they do and how high their rank, are first and foremost Party members.
+
+5. 中国是一个国家的一切权力属于人民的国家。
+
+- China is a country where all power of the state belongs to the people.
+
+6. 没有我们党的领导，民族复兴就不可能实现。
+
+- Without our Party’s leadership, national rejuvenation would be unattainable.
