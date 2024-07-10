@@ -10,7 +10,7 @@
 
 - 这些报告比晚报**提前**几小时送达订阅者手中。
 
-3. Most potential online customers are looking for vital <font color = 00FFFF>**up-to-date**</font> information.
+1. Most potential online customers are looking for vital <font color = 00FFFF>up-to-date</font> information.
 
 - 大多数潜在的在线客户都在寻找关键的最新信息。
 
@@ -352,3 +352,17 @@
 6. 没有我们党的领导，民族复兴就不可能实现。
 
 - Without our Party’s leadership, national rejuvenation would be unattainable.
+
+# 课内翻译
+
+1. Popular employers often receive an overwhelming amount of applications for a limited number af positions. Don't stake all your hopes solely on a select few big-name employers lnstead apply for roles in both big companies and SMEs. As a fresh graduate employers. trying to get ahead in your career, you'll want to accumulate as much relevant experienceand skills as you can —— both of which can be acquired whether you're at a small or big firm.
+
+- 受欢迎的雇主通常会收到大量求职申请，而岗位数量却有限。不要将所有希望都押注在少数几家知名企业上；相反，应该同时向大型公司和中小企业投递简历。作为一名刚毕业的学生或是在职业生涯初期的职场新人，你应当尽可能积累相关经验和技能——无论你在小型还是大型企业工作，这些都可以获得。
+
+2. Remain calm during the negotiations, as this will aid your decision making processes. Observe the emotions of the other party, and try not to respond in kind if the discussion becomes "heated " Instead, use your emotional intelligence skills to understand why the debate has taken this turn, and make an effort to understand each party's underlying interests, needs and concerns.
+
+- 在谈判过程中保持冷静，这有助于你的决策过程。留意对方的情绪变化，如果讨论变得激烈，尽量避免情绪化回应。相反，运用你的情商技巧去理解为何会谈会发展至此，努力理解双方的根本利益、需求和担忧。
+
+3. Well, let's begin with globalization. Global competitive processes have transformed work organization, working relations and employment patterns, contributing to the increase in work-related stress and its associated disorders. With the pace work dictated by instant communications and high levels of global competition the lines separating work from life are becoming more and more difficult to identiy. An appropriate balance between work and private life is difficult to achieve.
+
+- 让我们从全球化谈起。全球竞争进程已经改变了工作组织结构、劳动关系以及就业模式，从而加剧了与工作相关的压力及其相关疾病。随着即时通讯技术和高水平全球竞争对工作节奏的影响，工作与生活的界限正变得越来越模糊，难以界定。因此，实现工作与个人生活之间的适当平衡变得异常困难。
