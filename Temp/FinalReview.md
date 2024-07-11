@@ -167,9 +167,9 @@
 
 11. <font color = 00FFFF>When it comes to</font> danger in times of peace, and be wary of unrest in times of stability.
 
-- 和平**时期要**警惕危险，稳定时期要提防动荡。
+- 和平时期要警惕危险，稳定时期要提防动荡。
 
-12. <font color = 00FFFF>Under pressure</font> taking care of your mental health, you can do a few key things to ensure you are as healthy and happy as possible.
+1.  <font color = 00FFFF>Under pressure</font> taking care of your mental health, you can do a few key things to ensure you are as healthy and happy as possible.
 
 - **在压力下**照顾好你的心理健康，你可以做一些关键的事情，确保你是尽可能的健康和快乐。
 
