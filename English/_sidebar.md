@@ -2,4 +2,4 @@
     英语
 -->
 
-* [BuildingYourEnglishBrain](BuildingYourEnglishBrain.md)
+* [BuildingYourEnglishBrain](/English/BuildingYourEnglishBrain.md)
