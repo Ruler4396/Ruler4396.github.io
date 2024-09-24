@@ -6,6 +6,10 @@
 
 <p style="text-align:right;">——查理·芒格</p>
 
+<p style="font-family: Arial, sans-serif; font-size: 25px;">没有一种数学思想，以它被发现时那个样子给发表出来。一个问题被解决以后，相应的发展成一种形式化的技巧，结果使得火热的思考变成了冰冷的美丽。</p>
+
+<p style="text-align:right;">——汉斯·弗赖登塔尔</p>
+
 - 少就是多，少看多做笔记
 - 审美即偏见，人人执偏见
 

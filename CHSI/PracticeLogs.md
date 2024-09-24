@@ -29,7 +29,7 @@
 ![alt text](Image/2024.8.16_3.png)
 7；
 ![alt text](Image/2024.8.16_4.png)
-8；
+<font color=RED>！8；</font>
 ![alt text](Image/2024.8.16_5.png)
 
 > ### 2024.8.17
@@ -37,11 +37,41 @@
 
 4；
 ![alt text](Image/2024.8.17_1.png)
-11；
+<font color=RED>！11；</font>
 ![alt text](Image/2024.8.17_2.png)
-12；
+<font color=RED>！12；</font>
 ![alt text](Image/2024.8.17_3.png)
 
 > ### 2024.8.18
+> 高数上 P38（PDF51）习题 P22（PDF29）
+
+6；
+![alt text](Image/2024.8.18_1.png)
+7；
+![alt text](Image/2024.8.18_2.png)
+8；
+![alt text](Image/2024.8.18_3.png)
+
+> ### 2024.8.27
+> 高数上 P45（PDF58）习题 P23（PDF30）
+
+1；(12)(13)(14)
+![alt text](Image/2024.8.27_1.png)
+3；
+![alt text](Image/2024.8.27_2.png)
+4；
+![alt text](Image/2024.8.27_3.png)
+5；
+![alt text](Image/2024.8.27_4.png)
+
+> ### 2024.8.29
+> 高数上 P52（PDF）习题 P（PDF）
+
+1；（4）（5）（6）
+![alt text](image.png)
+2；（2）（3）
+![alt text](image-1.png)
+4；（2）（3）（5）
+![alt text](image-2.png)
 
 本周小结：
