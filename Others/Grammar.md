@@ -36,6 +36,7 @@ $\in$ `\in`
 $\ni$ `\ni`
 
 $\underset{n\rightarrow0}{lim}$ `\underset{n\rightarrow0}{lim}`
+$\sqrt[a]{b}$ `\sqrt[a]{b}`
 $\frac{a}{b}$ `\frac{a}{b}`
 $\cfrac{a}{b}$ `\cfrac{a}{b}`
 
