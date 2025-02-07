@@ -1,0 +1,145 @@
+{
+    "root": {
+        "data": {
+            "id": "d7m2ppuho1k0",
+            "created": 1738917235663,
+            "text": "逻辑结构"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "d7m2pvg252o0",
+                    "created": 1738917247851,
+                    "text": "线性结构",
+                    "layout": null
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d7m2qnuju940",
+                            "created": 1738917309678,
+                            "text": "一般线性表",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d7m2qrqwb3k0",
+                            "created": 1738917318164,
+                            "text": "受限线性表",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d7m2qzeun9s0",
+                                    "created": 1738917334850,
+                                    "text": "栈和队列",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d7m2r20dc4o0",
+                                    "created": 1738917340504,
+                                    "text": "串",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d7m2quv8als0",
+                            "created": 1738917324957,
+                            "text": "线性表推广",
+                            "layout": null
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "d7m2pxhqn940",
+                    "created": 1738917252307,
+                    "text": "非线性结构",
+                    "layout": null
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d7m2q2ajrew0",
+                            "created": 1738917262756,
+                            "text": "集合",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d7m2q4masvs0",
+                            "created": 1738917267820,
+                            "text": "树状结构",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d7m2q9dvp0o0",
+                                    "created": 1738917278195,
+                                    "text": "一般树",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d7m2qd0s3yw0",
+                                    "created": 1738917286110,
+                                    "text": "二叉树",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d7m2qfakyvs0",
+                            "created": 1738917291056,
+                            "text": "图状结构",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d7m2qjldzr40",
+                                    "created": 1738917300416,
+                                    "text": "有向图",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d7m2qkrr1q80",
+                                    "created": 1738917302979,
+                                    "text": "无向图",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "right",
+    "theme": "fresh-blue-compat",
+    "version": "1.4.43"
+}
