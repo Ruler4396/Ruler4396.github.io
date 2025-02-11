@@ -1,0 +1,223 @@
+{
+    "root": {
+        "data": {
+            "id": "d7mb5q1qbwg0",
+            "created": 1738941058807,
+            "text": "交换方式"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "d7mb5t8ffl40",
+                    "created": 1738941065742,
+                    "text": "电路交换（低频大量）"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d7mb6bwtobs0",
+                            "created": 1738941106399,
+                            "text": "✅优点"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d7mb8tvb2j40",
+                                    "created": 1738941302218,
+                                    "text": "速度快"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d7mb6dqtnd40",
+                            "created": 1738941110390,
+                            "text": "❌缺点"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d7mb9skwuc80",
+                                    "created": 1738941377777,
+                                    "text": "建立/释放连接时间长"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d7mbeokehlk0",
+                                    "created": 1738941760860,
+                                    "text": "独占线路，利用率低"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d7mbewxibjc0",
+                                    "created": 1738941779067,
+                                    "text": "线路分配不灵活"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d7mbk47ubvs0",
+                                    "created": 1738942186750,
+                                    "text": "纠错能力差"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "d7mb5uwo21k0",
+                    "created": 1738941069385,
+                    "text": "报文交换"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d7mb6bwtobs0",
+                            "created": 1738941106399,
+                            "text": "✅优点"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d7mwk4vxqh40",
+                                    "created": 1739001431515,
+                                    "text": "无需连接"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d7mwko21btk0",
+                                    "created": 1739001473242,
+                                    "text": "分配灵活"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d7mwk89njc80",
+                                    "created": 1739001438874,
+                                    "text": "无需独占、利用率高"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d7mwktxgin40",
+                                    "created": 1739001486026,
+                                    "text": "支持“差错控制”"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d7mb6dqtnd40",
+                            "created": 1738941110390,
+                            "text": "❌缺点"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d7mwhg6iov40",
+                                    "created": 1739001221007,
+                                    "text": "报文无固定长度，不方便存储转发管理"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d7mwirhiyew0",
+                                    "created": 1739001323981,
+                                    "text": "长报文的存储转发时间、缓存开销大，出错概率高"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "d7mb5x8csqw0",
+                    "created": 1738941074445,
+                    "text": "分组交换"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d7mb6bwtobs0",
+                            "created": 1738941106399,
+                            "text": "✅优点"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d7mwnhzgp340",
+                                    "created": 1739001695119,
+                                    "text": "参考报文交换的优点"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d7mwnu243yo0",
+                                    "created": 1739001721400,
+                                    "text": "改进了报文交换的缺点"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d7mb6dqtnd40",
+                            "created": 1738941110390,
+                            "text": "❌缺点"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d7mwoghnnu00",
+                                    "created": 1739001770229,
+                                    "text": "控制信息占比增加"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d7mwpcqq9z40",
+                                    "created": 1739001840435,
+                                    "text": "存在存储转发时延"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d7mwpumiywo0",
+                                    "created": 1739001879363,
+                                    "text": "分组容易丢失、失序，增加额外复杂度"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "right",
+    "theme": "fresh-blue-compat",
+    "version": "1.4.43"
+}

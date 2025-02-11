@@ -1,0 +1,199 @@
+{
+    "root": {
+        "data": {
+            "id": "d7mz2zuqab40",
+            "created": 1739008551697,
+            "text": "计算机网络的性能指标"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "d7mz9yc797s0",
+                    "created": 1739009096949,
+                    "text": "速率",
+                    "layout_mind_offset": {
+                        "x": -1.9999999105930328,
+                        "y": 21.999999016523475
+                    },
+                    "layout": null
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "d7mza0bptds0",
+                    "created": 1739009101273,
+                    "text": "带宽",
+                    "layout_mind_offset": {
+                        "x": 0.9999999552965164,
+                        "y": 26.999998793006
+                    },
+                    "layout": null
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d7mzpumog800",
+                            "created": 1739010342702,
+                            "text": "最高数据传输速率",
+                            "layout": null
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "d7mza3k98140",
+                    "created": 1739009108320,
+                    "text": "吞吐量",
+                    "layout_mind_offset": {
+                        "x": -302.99998645484504,
+                        "y": 102.99999539554142
+                    },
+                    "layout": null
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "d7mza5j0h0g0",
+                    "created": 1739009112598,
+                    "text": "时延",
+                    "layout_mind_offset": {
+                        "x": 0.9999999552966301,
+                        "y": -21.999999016523418
+                    },
+                    "layout": null
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d7mzahphuj40",
+                            "created": 1739009139111,
+                            "text": "发送时延/传输时延",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d7n01r1h4mo0",
+                                    "created": 1739011275259,
+                                    "text": "　数据长度(bit)\n/发送速率(bit/s)",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d7mzaltbnwg0",
+                            "created": 1739009148050,
+                            "text": "传播时延",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d7n02htjwio0",
+                                    "created": 1739011333553,
+                                    "text": "　信道长度(m)\n/传播速度(m/s)",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d7mzanyjqww0",
+                            "created": 1739009152720,
+                            "text": "处理时延",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d7mzapk4z3c0",
+                            "created": 1739009156202,
+                            "text": "排队时延",
+                            "layout": null
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "d7mza7me8dk0",
+                    "created": 1739009117156,
+                    "text": "时延带宽积",
+                    "layout": null
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d7n0r8je4io0",
+                            "created": 1739013272452,
+                            "text": "传播时延*带宽(单位：bit)",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d7n0tun8vw00",
+                            "created": 1739013477303,
+                            "text": "已发出但未到达的最大比特数",
+                            "layout": null
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "d7mzbltvs1s0",
+                    "created": 1739009226448,
+                    "text": "往返时延",
+                    "layout": null
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d7n144utxhk0",
+                            "created": 1739014283171,
+                            "text": "接收完时刻-发送完时刻",
+                            "layout": null
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "d7mzbp2ltp40",
+                    "created": 1739009233506,
+                    "text": "信道利用率",
+                    "layout": null
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d7n17fmhv280",
+                            "created": 1739014541704,
+                            "text": "传输用时/连接总时长",
+                            "layout": null
+                        },
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-blue-compat",
+    "version": "1.4.43"
+}

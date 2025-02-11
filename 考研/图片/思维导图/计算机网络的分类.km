@@ -1,0 +1,196 @@
+{
+    "root": {
+        "data": {
+            "id": "d7mxt6usl3c0",
+            "created": 1739004962187,
+            "text": "计算机网络的分类"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "d7mxtn48y1s0",
+                    "created": 1739004997587,
+                    "text": "传输技术",
+                    "layout": null
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d7mxv0mkv5k0",
+                            "created": 1739005105357,
+                            "text": "广播式网络",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d7mxv3s2xlc0",
+                            "created": 1739005112220,
+                            "text": "点对点网络",
+                            "layout": null
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "d7mxtozm7140",
+                    "created": 1739005001660,
+                    "text": "拓扑结构",
+                    "layout": null
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d7mxv6ffu9s0",
+                            "created": 1739005117986,
+                            "text": "总线型",
+                            "color": "#ff0000",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d7mxv7hldig0",
+                            "created": 1739005120293,
+                            "text": "环形",
+                            "color": "#ff0000",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d7mxv9r8cig0",
+                            "created": 1739005125230,
+                            "text": "星形",
+                            "color": "#ff0000",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d7mxvcunyn40",
+                            "created": 1739005131968,
+                            "text": "网状",
+                            "color": "#ff0000",
+                            "layout": null
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "d7mxtrvgeg80",
+                    "created": 1739005007939,
+                    "text": "使用者",
+                    "layout": null
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d7mxvmf3i2w0",
+                            "created": 1739005152794,
+                            "text": "公用网",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d7mxvnww8v40",
+                            "created": 1739005156047,
+                            "text": "专用网",
+                            "layout": null
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "d7mxtjc6ig00",
+                    "created": 1739004989359,
+                    "text": "分布范围",
+                    "layout": null
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d7mxur2fp740",
+                            "created": 1739005084548,
+                            "text": "广域网",
+                            "color": "#ff0000",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d7mxusmxp340",
+                            "created": 1739005087965,
+                            "text": "城域网",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d7mxuu40rps0",
+                            "created": 1739005091175,
+                            "text": "局域网",
+                            "color": "#ff0000",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d7mxuvab26w0",
+                            "created": 1739005093731,
+                            "text": "个人区域网",
+                            "layout": null
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "d7mxtsyuep40",
+                    "created": 1739005010321,
+                    "text": "传输介质",
+                    "layout": null
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d7mxvwhnrhk0",
+                            "created": 1739005174717,
+                            "text": "有线网络",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d7mxvy59s8o0",
+                            "created": 1739005178322,
+                            "text": "无线网络",
+                            "layout": null
+                        },
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-blue-compat",
+    "version": "1.4.43"
+}
