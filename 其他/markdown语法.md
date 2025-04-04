@@ -19,6 +19,7 @@ $\alpha$ `\alpha`
 $\Beta$ `\Beta`
 $\beta$ `\beta`
 $\gamma$ `\gamma`
+$\theta$ `$\theta$`
 
 $\forall$ `\forall`
 $\exist$ `exist`
