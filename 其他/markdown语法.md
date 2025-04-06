@@ -20,6 +20,8 @@ $\Beta$ `\Beta`
 $\beta$ `\beta`
 $\gamma$ `\gamma`
 $\theta$ `$\theta$`
+$\varphi$ `$\varphi$`
+$\psi$ `$\psi$`
 
 $\forall$ `\forall`
 $\exist$ `exist`
