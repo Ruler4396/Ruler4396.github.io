@@ -22,6 +22,7 @@ $\gamma$ `\gamma`
 $\theta$ `$\theta$`
 $\varphi$ `$\varphi$`
 $\psi$ `$\psi$`
+$\xi$ `$\xi$`
 
 $\forall$ `\forall`
 $\exist$ `exist`
