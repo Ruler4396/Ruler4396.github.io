@@ -23,6 +23,7 @@ $\theta$ `$\theta$`
 $\varphi$ `$\varphi$`
 $\psi$ `$\psi$`
 $\xi$ `$\xi$`
+$\lambda$ `$\lambda$`
 
 $\forall$ `\forall`
 $\exist$ `exist`
@@ -71,4 +72,24 @@ x, \quad x>0
 \end{cases}
 \tag{1}
 $$
+```
+
+```mermaid
+mindmap
+    Root
+        A
+            B
+            C
+```
+
+```
+
+\```mermaid
+mindmap
+    Root
+        A
+            B
+            C
+\```
+
 ```
