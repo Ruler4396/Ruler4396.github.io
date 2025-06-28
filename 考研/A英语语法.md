@@ -36,3 +36,65 @@
 > **With** 和、用
 > **To** 
 > **Over**
+
+
+
+# 简单句
+
+## 句子类型 
+> 主语一定是谓语动作的发生者，宾语一定是谓语动作的承担者
+1. 主谓
+2. 主谓宾
+   - 🧡有时态和语态的**实义动词**或系动词（主系表）充当谓语
+   - 情态动词不能作谓语 must
+3. 主系表
+> **系动词**：
+> - be动词
+> - 感官动词 look smell taste sound feel
+> - 变化 become get turn
+> - 保持 keep stay remain
+> - 类似 seem appear
+> - 证明 prove
+1. 主谓双宾
+2. 主谓宾宾补
+
+## 句子成分
+
+### 谓语
+谓语只能是动词
+动词只能作谓语（动名词+ing，不定式+to）
+🧡不作谓语的动词变成非谓语（主动Ving 被动Ved 目的Todo）
+> 独立主格
+> 非谓语动词放在主谓之间作为插入语
+> 无谓语时+be动词
+
+### 主语/宾语（可数名词不能单独使用）
+1. 名词
+2. 代词
+3. 非谓语动词
+4. 从句
+> 形容词不能作为主语/宾语
+> 1. 可以添加无意义的动词be构成非谓语（主系表结构）
+> 2. 形容词的名词形式
+> ❌handsome and strong is his character.
+> ⭕Being handsome and strong is his character.
+> ⭕Handsomeness and strength are his character.
+
+- It
+- There be句型：句子缺主语，且包含“有”字
+- 被动
+
+### 表语（主系表）
+可以充当主语/宾语的成分
+形容词
+介词短语
+
+# 并列句
+
+# 名词性从句
+
+# 定语和定语从句
+
+# 状语和状语从句
+
+# 特殊结构
