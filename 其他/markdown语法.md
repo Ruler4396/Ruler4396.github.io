@@ -24,6 +24,7 @@ $\varphi$ `$\varphi$`
 $\psi$ `$\psi$`
 $\xi$ `$\xi$`
 $\lambda$ `$\lambda$`
+$\mu$ `$\mu$`
 
 $\forall$ `\forall`
 $\exist$ `exist`
