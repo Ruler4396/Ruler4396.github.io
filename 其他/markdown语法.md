@@ -13,6 +13,7 @@
 
 <u>下划线</u>`<u>下划线</u>`
 <mark>高亮</mark>`<mark>下划线</mark>`
+$\overline{上划线}$ `$\overline{上划线}$`
 
 $\Alpha$ `\Alpha`
 $\alpha$ `\alpha`
@@ -45,6 +46,11 @@ $1\qquad1$ `1\qquad1`
 
 $\in$ `\in`
 $\ni$ `\ni`
+$\subseteq$ `$\subseteq$`
+
+$\cap$ `$\cap$`
+$\cup$ `$\cup$`
+
 
 $\underset{n\rightarrow0}{lim}$ `\underset{n\rightarrow0}{lim}`
 $\sum\limits_{j=1}^{n}i$ `\sum\limits_{j=1}^{n}i`
