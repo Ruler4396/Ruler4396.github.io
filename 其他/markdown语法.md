@@ -56,8 +56,8 @@ $\underset{n\rightarrow0}{lim}$ `\underset{n\rightarrow0}{lim}`
 $\sum\limits_{j=1}^{n}i$ `\sum\limits_{j=1}^{n}i`
 $\int$ `\int`
 $\sqrt[a]{b}$ `\sqrt[a]{b}`
-$\frac{a}{b}$ `\frac{a}{b}`
-$\cfrac{a}{b}$ `\cfrac{a}{b}`
+
+$\partial$ `\partial`
 
 ---
 
